@@ -22,3 +22,20 @@ For future work, we are planning to completely automate the entire process and d
 5. **Events** Tweets containing company’s name and event(like COVID19) or technology(like Data Science,AI,Machine Learning) in it.
 6. **BIG4 file** Contains all tweets with hashtag BIG4.
 7. **Sample Data** contains the sample data given by hackathon committee.
+
+## Scripts
+All the scripts have been added to folder [Script_for_EY_Analysis](https://github.com/abhinav0000004/EY_Hackpoins_Team_Bolt_Social_Media_Listening/tree/main/Script_for_EY_Analysis) for all EY analysis and [Script_for_Big4_comparision](https://github.com/abhinav0000004/EY_Hackpoins_Team_Bolt_Social_Media_Listening/tree/main/Script_for_Big4_comparision) for all comparision between BIG4.
+
+Also a [script](https://github.com/abhinav0000004/EY_Hackpoins_Team_Bolt_Social_Media_Listening/blob/main/Automated_Twitter_Data_Extracting.ipynb) has been added for scrapping twitter tweets without using twitter api.
+
+## Sample Analysis
+Words most frequently used in tweets with positive sentiment mentioning EY are:
+![alt text](https://github.com/abhinav0000004/EY_Hackpoins_Team_Bolt_Social_Media_Listening/blob/main/Sample%20OutputImages/For%20EY/HappyCloud.PNG)
+
+Words most frequently used in tweets with negative sentiment mentioning EY are:
+![alt text](https://github.com/abhinav0000004/EY_Hackpoins_Team_Bolt_Social_Media_Listening/blob/main/Sample%20OutputImages/For%20EY/SadCloud.PNG)
+
+While the tweet trend of Big4 is mentoning COVID19 concern :
+![alt text](https://github.com/abhinav0000004/EY_Hackpoins_Team_Bolt_Social_Media_Listening/blob/main/Sample%20OutputImages/For%20Comparision/covid.png)
+
+These are few of the analysis. More plots can be found [here](https://github.com/abhinav0000004/EY_Hackpoins_Team_Bolt_Social_Media_Listening/tree/main/Sample%20OutputImages)
