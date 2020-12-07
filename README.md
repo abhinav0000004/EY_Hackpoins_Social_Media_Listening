@@ -29,13 +29,13 @@ All the scripts have been added to folder [Script_for_EY_Analysis](https://githu
 Also a [script](https://github.com/abhinav0000004/EY_Hackpoins_Team_Bolt_Social_Media_Listening/blob/main/Automated_Twitter_Data_Extracting.ipynb) has been added for scrapping twitter tweets without using twitter api.
 
 ## Sample Analysis
-Words most frequently used in tweets with positive sentiment mentioning EY are:
-![alt text](https://github.com/abhinav0000004/EY_Hackpoins_Team_Bolt_Social_Media_Listening/blob/main/Sample%20OutputImages/For%20EY/HappyCloud.PNG)
-
-Words most frequently used in tweets with negative sentiment mentioning EY are:
-![alt text](https://github.com/abhinav0000004/EY_Hackpoins_Team_Bolt_Social_Media_Listening/blob/main/Sample%20OutputImages/For%20EY/SadCloud.PNG)
+Words most frequently used in tweets with positive sentiment mentioning EY|  Words most frequently used in tweets with negative sentiment mentioning EY
+:-------------------------:|:-------------------------:
+![](https://github.com/abhinav0000004/EY_Hackpoins_Team_Bolt_Social_Media_Listening/blob/main/Sample%20OutputImages/For%20EY/HappyCloud.PNG)  |  ![](https://github.com/abhinav0000004/EY_Hackpoins_Team_Bolt_Social_Media_Listening/blob/main/Sample%20OutputImages/For%20EY/SadCloud.PNG)
 
 While the tweet trend of Big4 is mentoning COVID19 concern :
 ![alt text](https://github.com/abhinav0000004/EY_Hackpoins_Team_Bolt_Social_Media_Listening/blob/main/Sample%20OutputImages/For%20Comparision/covid.png)
 
 These are few of the analysis. More plots can be found [here](https://github.com/abhinav0000004/EY_Hackpoins_Team_Bolt_Social_Media_Listening/tree/main/Sample%20OutputImages)
+
+
