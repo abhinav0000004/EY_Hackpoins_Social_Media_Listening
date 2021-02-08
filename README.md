@@ -40,3 +40,6 @@ These are few of the analysis. More plots can be found [here](https://github.com
 
 ## Dashboard
 ### Complete dashboard can be found here [Link](https://eyweb-76e3d.web.app/#/) 
+
+## Dashboard
+### Secured second prize in the hackathon for the problem statement "Social Media Listening". 
